@@ -23,7 +23,7 @@
   <a href="https://instagram.com/rennlp" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="mailto:rennlima477@gmail.com" target="_blank">
+  <a href="mailto:rennlima477@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/renan-de-lima-3876532b8/" target="_blank">
