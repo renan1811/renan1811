@@ -21,7 +21,7 @@ Por aqui você encontra projetos que construo com outras pessoas, ideias que tir
 
 ### Tecnologias
 
-<a href=""><img src="https://skillicons.dev/icons?i=vue,js,tailwind,python,django,postgres,git,github&amp;theme=dark" width="420" alt="Vue, JavaScript, Tailwind CSS, Python, Django, PostgreSQL, Git e GitHub"></a>
+<img src="https://skillicons.dev/icons?i=vue,js,tailwind,python,django,postgres,git,github&amp;theme=dark" width="420" alt="Vue, JavaScript, Tailwind CSS, Python, Django, PostgreSQL, Git e GitHub">
 
 ### Projetos
 
@@ -50,7 +50,7 @@ Por aqui você encontra projetos que construo com outras pessoas, ideias que tir
 <details>
 <summary><strong>Estatísticas do GitHub</strong></summary>
 <br>
-<a href=""><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renan1811&amp;theme=github_dark" width="100%" alt="Histórico de contribuições de renan1811"></a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renan1811&amp;theme=github_dark" width="100%" alt="Histórico de contribuições de renan1811">
 </details>
 
 ---
