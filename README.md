@@ -13,11 +13,12 @@
   <a href="mailto:rennlima477@gmail.com">E-mail</a>
 </p>
 
-### Sobre mim
+<br>
 
-Sou estudante de **Informática para Internet no IFC Araquari** e bolsista da **Fábrica de Software**. Desenvolvo aplicações web com **Vue e Django**, do front-end à API.
-
-Por aqui você encontra projetos que construo com outras pessoas, ideias que tiro do papel e o que vou aprendendo no caminho.
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/about-mobile-dark.svg">
+  <img src="assets/about-dark.svg" width="100%" alt="Sobre mim: estudante de Informática para Internet no IFC Araquari, bolsista da Fábrica de Software e desenvolvedor com Vue e Django.">
+</picture>
 
 ### Tecnologias
 
@@ -47,11 +48,12 @@ Por aqui você encontra projetos que construo com outras pessoas, ideias que tir
 </a>
 
 
-<details>
-<summary><strong>Estatísticas do GitHub</strong></summary>
-<br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renan1811&amp;theme=github_dark" width="100%" alt="Histórico de contribuições de renan1811">
-</details>
+### No GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=renan1811&amp;bg_color=0D1117&amp;title_color=6CB6FF&amp;text_color=9AAEC5&amp;icon_color=6CB6FF&amp;border_color=26364D&amp;border_radius=12&amp;locale=pt-br&amp;card_width=495&amp;show_icons=true&amp;hide_rank=true&amp;custom_title=Atividade+no+GitHub&amp;hide=stars&amp;line_height=24&amp;disable_animations=true" width="410" alt="Atividade de renan1811 no GitHub: commits, pull requests e issues">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=renan1811&amp;bg_color=0D1117&amp;title_color=6CB6FF&amp;text_color=9AAEC5&amp;icon_color=6CB6FF&amp;border_color=26364D&amp;border_radius=12&amp;locale=pt-br&amp;card_width=495&amp;layout=compact&amp;langs_count=6&amp;custom_title=Linguagens+nos+reposit%C3%B3rios&amp;disable_animations=true" width="410" alt="Linguagens dos repositórios públicos de renan1811">
+</p>
 
 ---
 
